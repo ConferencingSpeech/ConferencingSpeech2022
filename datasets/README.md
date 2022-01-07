@@ -1,5 +1,5 @@
 # ConferencingSpeech2022 Datasets
-This folder gives the conferencingSpeech2022 datasets download link and a brief introduction. Participants can divide the training set and development verification set according to their own needs. More detail can be found in the above "ConferencingSpeech 2022 Challenge Evaluation Plan_version1.pdf".
+This folder gives the conferencingSpeech2022 datasets download link and a brief introduction. Participants can divide the training set and development verification set according to their own needs. More detail can be found this [paper](https://share.weiyun.com/6Mn4bvOC).
 
 # Datasets Brief Introduction
 ## Tencent Corpus
