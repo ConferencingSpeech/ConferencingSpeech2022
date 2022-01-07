@@ -18,3 +18,6 @@ To install requirements install Anaconda and then use:
 This will create a new environment with the name "conferencingSpeech". Activate this environment to go on:
 
 >conda activate conferencingSpeech
+
+# Code license
+[Apache 2.0](https://github.com/ConferencingSpeech/ConferencingSpeech2022/blob/main/LICENSE)
