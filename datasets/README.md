@@ -3,7 +3,7 @@ This folder gives the conferencingSpeech2022 datasets download link and a brief 
 
 # Datasets Brief Introduction
 ## Tencent Corpus
-This dataset  includes reverberation and reverberation free situations. In the reverberation free situation, there are about 10k Chinese corpus and  all speech clips experience the simulated damage which will often be suffered in online conference. While, in the reverberation situation, simulated damage and live recorded speech clips are considered and totally count about 4k. The above dataset can be found in [website](https://share.weiyun.com/6Mn4bvOC).
+This dataset  includes reverberation and reverberation free situations. In the reverberation free situation, there are about 10k Chinese corpus and  all speech clips experience the simulated damage which will often be suffered in online conference. While, in the reverberation situation, simulated damage and live recorded speech clips are considered and totally count about 4k. The above dataset can be found in [here](https://share.weiyun.com/N3Urcc2p).
 
 ##  NISQA Corpus
 The NISQA Corpus includes more than 14,000 speech samples with simulated (e.g. codecs, packet-loss, background noise) and live (e.g. mobile phone, Zoom, Skype, WhatsApp) conditions. The corpus is already publicly available so it can only be used as part of the training and development test sets in the competition.
