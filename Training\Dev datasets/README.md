@@ -15,13 +15,13 @@ files were then split into a training and validation set.
 There are 36,000 speech signals (16-bit single-channel audios sampled at 16 kHz) extracted from COSINE and VOiCES datasets, each truncated between 3 to 6 seconds long, with a total length of around 45 hours. 
 If you use the IU Bloomington Corpus in a publication, please cite the following paper:
 
-   @article{dong2020pyramid,
-     title={A pyramid recurrent network for predicting crowdsourced speech-quality ratings of real-world signals},
-     author={Dong, Xuan and Williamson, Donald S},
-     booktitle={Interspeech},
-     pages={4631--4635},
-     year={2020}
-   }
+    @article{dong2020pyramid,
+      title={{A pyramid recurrent network for predicting crowdsourced speech-quality ratings of real-world signals}},
+      author={Dong, Xuan and Williamson, Donald S},
+      booktitle={Interspeech}，
+      pages={4631--4635},
+      year={2020}
+    }
 
 ## Dataset Division
 The training, development test, and evaluation test sets in this challenge are all obtained from the above-mentioned datasets. It is worth noticing that 
