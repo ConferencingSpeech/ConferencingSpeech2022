@@ -12,7 +12,8 @@ The PSTN  Corpus contain 79,980 degraded speech clips with a duration of 10 seco
 files were then split into a training and validation set. 
 
 ## IU Bloomington Corpus
-There are 36,000 speech signals (16-bit single-channel audios sampled at 16 kHz) extracted from COSINE and VOiCES datasets, each truncated between 3 to 6 seconds long, with a total length of around 45 hours. 
+There are 36,000 speech signals (16-bit single-channel audios sampled at 16 kHz) extracted from COSINE and VOiCES datasets, each truncated between 3 to 6 seconds long, with a total length of around 45 hours. The dataset (e.g. speech signals, MOS ratings, and an example data loader) can be found [here](https://drive.google.com/drive/folders/1wIgOqnKA1U-wZQrU8eb67yQyRVOK3SnZ).
+
 If you use the IU Bloomington Corpus in a publication, please cite the following paper:
 
     @article{dong2020pyramid,
