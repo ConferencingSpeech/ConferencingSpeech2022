@@ -7,10 +7,6 @@ This dataset  includes with reverberation and without reverberation  situations.
 ##  NISQA Corpus
 The NISQA Corpus includes more than 14,000 speech samples with simulated (e.g. codecs, packet-loss, background noise) and live (e.g. mobile phone, Zoom, Skype, WhatsApp) conditions. The corpus is already publicly available so it can only be used as part of the training and development test sets in the competition. Subjective ratings are collected through an extension of P.808 Toolkit in which participants rated the overall quality and the quality dimensions Noisiness, Coloration, Discontinuity, and Loudness. Each clip has on average 5 valid votes.
 
-## PSTN Corpus
-The PSTN  Corpus contain 79,980 degraded speech clips with a duration of 10 seconds were collected, 49,984 files based on noisy reference files, and 29,996 files based on clean reference files. The
-files were then split into a training and validation set. 
-
 ## IU Bloomington Corpus
 There are 36,000 speech signals (16-bit single-channel audios sampled at 16 kHz) extracted from COSINE and VOiCES datasets, each truncated between 3 to 6 seconds long, with a total length of around 45 hours. The dataset (e.g. speech signals, MOS ratings, and an example data loader) can be found [here](https://drive.google.com/drive/folders/1wIgOqnKA1U-wZQrU8eb67yQyRVOK3SnZ).
 
@@ -23,6 +19,10 @@ If you use the IU Bloomington Corpus in a publication, please cite the following
       pages={4631--4635},
       year={2020}
     }
+
+## PSTN Corpus
+The PSTN  Corpus contain 79,980 degraded speech clips with a duration of 10 seconds were collected, 49,984 files based on noisy reference files, and 29,996 files based on clean reference files. The
+files were then split into a training and validation set. 
 
 ## Dataset Division
 The training, development test, and evaluation test sets in this challenge are all obtained from the above-mentioned datasets. It is worth noticing that 
