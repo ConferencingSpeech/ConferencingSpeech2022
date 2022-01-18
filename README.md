@@ -1,5 +1,5 @@
 # ConferencingSpeech 2022 challenge
-This repository contains the datasets list and scripts required for the ConferencingSpeech 2022 challenge. For more details about the challenge, please see our [website](https://tea-lab.qq.com/).
+This repository contains the datasets list and scripts required for the ConferencingSpeech 2022 challenge. For more details about the challenge, please see our [website](https://tea-lab.qq.com/conferencingspeech-2022).
 # Details
 * `baseline`, this folder contains baseline system include inference model exported by inference scripts;
 * `eval`, this folder contains evaluation scripts to calculate PLCC, RMSE and SRCC;
