@@ -3,7 +3,7 @@ This folder gives the conferencingSpeech2022 datasets download link and a brief 
 
 # Datasets Brief Introduction
 ## Tencent Corpus
-This dataset  includes with reverberation and without reverberation  situations. In the without reverberation  situation, there are about 10k Chinese corpus and  all speech clips experience the simulated impairment which will often be suffered in online conference. While, in the with reverberation situation, simulated impairment and live recorded speech clips are considered and totally count about 4k. The above dataset can be found in [here](https://www.dropbox.com/sh/4t8wkaklgftcx10/AABeuzWUmv96-ZmtDAoa8bASa?dl=0).
+This dataset  includes with reverberation and without reverberation  situations. In the without reverberation  situation, there are about 10k Chinese corpus and  all speech clips experience the simulated impairment which will often be suffered in online conference. While, in the with reverberation situation, simulated impairment and live recorded speech clips are considered and totally count about 4k. The above dataset can be found in [here](https://www.dropbox.com/s/w1daqxxa6ycc017/TencentCorups.zip?dl=0). For participants in China, the above dataset can also be found in [here](https://share.weiyun.com/7Lp7dK67).
 ##  NISQA Corpus
 The NISQA Corpus includes more than 14,000 speech samples with simulated (e.g. codecs, packet-loss, background noise) and live (e.g. mobile phone, Zoom, Skype, WhatsApp) conditions. 
 Subjective ratings are collected through an extension of P.808 Toolkit in which participants rated the overall quality and the perceptual quality dimensions Noisiness, Coloration, Discontinuity, and Loudness. 
