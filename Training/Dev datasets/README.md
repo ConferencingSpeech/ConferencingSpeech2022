@@ -42,12 +42,12 @@ In the PSTN Training dataset, 58,709 degraded speech clips with a duration of 10
 
 If you use the PSTM Corpus in a publication, please cite the following paper:
 
-@inproceedings{mittag20b_interspeech,
-  author={Gabriel Mittag and Ross Cutler and Yasaman Hosseinkashi and Michael Revow and Sriram Srinivasan and Naglakshmi Chande and Robert Aichner},
-  title={{DNN No-Reference PSTN Speech Quality Prediction}},
-  year=2020,
-  booktitle={Proc. Interspeech 2020},
-}
+    @inproceedings{mittag20b_interspeech,
+      author={Gabriel Mittag and Ross Cutler and Yasaman Hosseinkashi and Michael Revow and Sriram Srinivasan and Naglakshmi Chande and Robert Aichner},
+      title={{DNN No-Reference PSTN Speech Quality Prediction}},
+      year=2020,
+      booktitle={Proc. Interspeech 2020},
+    }
 
 ## Dataset Division
 The training, development test, and evaluation test datasets in this challenge are all obtained from the above-mentioned datasets. It is worth noticing that 
