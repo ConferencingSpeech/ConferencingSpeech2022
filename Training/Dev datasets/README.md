@@ -40,7 +40,7 @@ If you use the IU Bloomington Corpus in a publication, please cite the following
 ## PSTN Corpus
 In the PSTN Training dataset, 58,709 degraded speech clips with a duration of 10 seconds were collected, 40,739 files based on noisy reference files, and 17,970 files based on clean reference files. The PSTN training dataset can be downloaded [here](https://cqstorageacct.blob.core.windows.net/audiopstndata/model/data_v03_GM/pstn_train.zip?sv=2020-08-04&st=2022-01-25T23%3A31%3A31Z&se=2027-01-01T23%3A31%3A00Z&sr=b&sp=r&sig=lmJWbmv%2FKq6sPEIEdUHA%2FilApDfhNDKs2f%2FX%2B%2BzliOc%3D).
 
-If you use the PSTM Corpus in a publication, please cite the following paper:
+If you use the PSTN Corpus in a publication, please cite the following paper:
 
     @inproceedings{mittag20b_interspeech,
       author={Gabriel Mittag and Ross Cutler and Yasaman Hosseinkashi and Michael Revow and Sriram Srinivasan and Naglakshmi Chande and Robert Aichner},
