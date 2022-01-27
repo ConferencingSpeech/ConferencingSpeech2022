@@ -38,7 +38,7 @@ If you use the IU Bloomington Corpus in a publication, please cite the following
     }
 
 ## PSTN Corpus
-In the PSTN Training dataset, 58,709 degraded speech clips with a duration of 10 seconds were collected, 40,739 files based on noisy reference files, and 17,970 files based on clean reference files. Parts of the PSTN training dataset can be downloaded [here](https://challenge.blob.core.windows.net/pstn/train.zip).
+In the PSTN Training dataset, 58,709 degraded speech clips with a duration of 10 seconds were collected, 40,739 files based on noisy reference files, and 17,970 files based on clean reference files. Parts of the PSTN training dataset can be downloaded [here](unknow)(The download link is being fixed, please be patient).
 
 If you use the PSTN Corpus in a publication, please cite the following paper:
 
