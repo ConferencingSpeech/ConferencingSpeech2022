@@ -38,7 +38,7 @@ If you use the IU Bloomington Corpus in a publication, please cite the following
     }
 
 ## PSTN Corpus
-In the PSTN Training dataset, 58,709 degraded speech clips with a duration of 10 seconds were collected, 40,739 files based on noisy reference files, and 17,970 files based on clean reference files. The PSTN training dataset can be downloaded [here](https://cqstorageacct.blob.core.windows.net/audiopstndata/model/data_v03_GM/pstn_train.zip?sv=2020-08-04&st=2022-01-25T23%3A31%3A31Z&se=2027-01-01T23%3A31%3A00Z&sr=b&sp=r&sig=lmJWbmv%2FKq6sPEIEdUHA%2FilApDfhNDKs2f%2FX%2B%2BzliOc%3D)(Google chrome or Motrix is recommended ).
+In the PSTN Training dataset, 58,709 degraded speech clips with a duration of 10 seconds were collected, 40,739 files based on noisy reference files, and 17,970 files based on clean reference files. Parts of the PSTN training dataset can be downloaded [here](https://cqstorageacct.blob.core.windows.net/audiopstndata/model/data_v03_GM/pstn_train.zip?sv=2020-08-04&st=2022-01-25T23%3A31%3A31Z&se=2027-01-01T23%3A31%3A00Z&sr=b&sp=r&sig=lmJWbmv%2FKq6sPEIEdUHA%2FilApDfhNDKs2f%2FX%2B%2BzliOc%3D)(Google chrome or Motrix is recommended ).
 
 If you use the PSTN Corpus in a publication, please cite the following paper:
 
@@ -56,5 +56,5 @@ different from Tencent, NISQA and PSTN corpus that use ITU-T P.808 for subjectiv
 Due to  the imbalance in the size of the datasets, 80% of Tencent Corpus, 95% of PSTN Corpus  are used for training and development test. Then the rest 20% of Tencent Corpus and 5% of PSTN Corpus are used for evaluation test in this challenge. We will try to make the impairment situation  and score distribution in the divided dataset as even as possible. Meanwhile, due to the NISQA corpus are already publicly available so they can only be used as part of the training  and development test sets in the competition.
 In addition, we will create two evaluation test datasets each with 200 clips one in German and one in English and subjective tests will be conducted using P.808 Toolkit. 
 
- Finally, there are about 101,000 corpus for training and  development test, 7,200 Corpus for evaluation test in this challenge. 
+ Finally, there are about 86,000 corpus for training and  development test, 7,200 Corpus for evaluation test in this challenge. 
  They are composed of Chinese, English, and German, and consider background noise, speech enhancement system, reverberation, codecs, packet-loss and other possible online conference voice impairment scenarios.
