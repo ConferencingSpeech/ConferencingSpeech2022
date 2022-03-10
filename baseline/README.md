@@ -1,13 +1,13 @@
 # Baseline 1
 The baseline model 1is adapted (simplified) from the [NISQA model](https://github.com/gabrielmittag/NISQA/) and is made 
 of a deep feed forward network followed by LSTM and average pooling. Here we publish the weights of the model trained for 50 epochs 
-(Download [`/weights/training_base_model_dff_vanilla_ep_050.tar`](/weights/training_base_model_dff_vanilla_ep_050.tar)).
+(Download [`/weights/training_base_model_dff_vanilla_ep_050.tar`](weights/training_base_model_dff_vanilla_ep_050.tar)).
 We also user NISQA's toolset to run the prediction.
 
 # Baseline 2
 We trained the [NISQA model](https://github.com/gabrielmittag/NISQA/) (Architecture: CNN with self-attention network and attention-pooling) 
 on the entire training set.  Here we publish the weights of this model trained for 80 epochs 
-(Download [`/weights/baseline2_retraining_NISQA_full_ep_080.tar`](/weights/baseline2_retraining_NISQA_full_ep_080.tar)).
+(Download [`/weights/baseline2_retraining_NISQA_full_ep_080.tar`](weights/baseline2_retraining_NISQA_full_ep_080.tar)).
 **This model performs significantly better than Baseline1 in our tests.**
 
 ## Get started
