@@ -313,8 +313,9 @@ def evaluate_mos(csv_mos,csv_mos_pre):
             )
 
 if __name__=='__main__':
-    evaluate_mos('csv_mos.csv','csv_mos_pred.csv')#D:\\NISQA_corpus_file.csv
+    evaluate_mos('csv_mos.csv','csv_mos_pred.csv')
 '''
+ This script is used to verify the accuracy of the submitted team results. It needs to input two csv files, "csv_mos.csv" and 'csv_mos_pred.csv'
 'csv_mos.csv'  has three columns: 'db', 'deg_wav', 'mos'. 
 'db'  represents the name of the dataset to which the speech clips belongs; 
 'deg_wav' represents the name of speech to be tested;
