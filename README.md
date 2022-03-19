@@ -3,6 +3,7 @@ This repository contains the datasets list and scripts required for the Conferen
 
 # News
 - The Baseline2 model is published. **This model performs significantly better than Baseline1 in our tests.**
+- The challenge result submission system has been closed. The final result analysis will be fed back to the teams submitting the results on March 20, 2022 AoE.
 # Details
 * `baseline`, this folder contains baseline system include inference model exported by inference scripts;
 * `eval`, this folder contains evaluation scripts to calculate PLCC, RMSE and SRCC;
