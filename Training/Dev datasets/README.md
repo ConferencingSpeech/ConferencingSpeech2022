@@ -50,11 +50,9 @@ If you use the PSTN Corpus in a publication, please cite the following paper:
     }
 
 ## Dataset Division
-The training, development test, and evaluation test datasets in this challenge are all obtained from the above-mentioned datasets. It is worth noticing that 
-different from Tencent, NISQA and PSTN corpus that use ITU-T P.808 for subjective testing, the IU Bloomington corpus adopts ITU-R BS.1534 for subjective quality collection, which results in a score of 0-100 instead of 1-5. Thus, the IU Bloomington corpus will only be provided to participants as additional materials, and will NOT appear in this challenge as a  evaluation test set. Participants can decide whether to use it according to their needs. 
+The training, development, and evaluation test sets in this challenge are all originated from the above-mentioned datasets. It is worth noting that the IU Bloomington corpus differs from the Tencent, NISQA and PSTN corpora that used ITU-T P.808 for subjective testing, where the IU Bloomington corpus adopted ITU-R BS.1534 for subjective testing, which resulted in a rating range of 0~100 instead of 1~5. Thus, the IU Bloomington corpus will only be provided to participants as additional materials, speech clips from IU Bloomington corpus will not appear in the evaluation test set of the challenge. Participants can decide whether to use it according to their needs. 
 
-Due to  the imbalance in the size of the datasets, 80% of Tencent Corpus, 95% of PSTN Corpus  are used for training and development test. Then the rest 20% of Tencent Corpus and 5% of PSTN Corpus are used for evaluation test in this challenge. We will try to make the impairment situation  and score distribution in the divided dataset as even as possible. Meanwhile, due to the NISQA corpus are already publicly available so they can only be used as part of the training  and development test sets in the competition.
-In addition, we will create two evaluation test datasets each with 200 clips one in German and one in English and subjective tests will be conducted using P.808 Toolkit. 
+Due to the imbalanced size of the datasets, 80% of Tencent Corpus and 95% of PSTN Corpus are used for training and development. The rest 20% of Tencent Corpus, 5% of PSTN Corpus, and newly created TUB corpus are used for evaluation test in this challenge. We aim to make the impairment situation and score distribution in the divided dataset as even as possible.
 
- Finally, there are about 86,000 corpus for training and  development test, 7,200 Corpus for evaluation test in this challenge. 
- They are composed of Chinese, English, and German, and consider background noise, speech enhancement system, reverberation, codecs, packet-loss and other possible online conference voice impairment scenarios.
+In summary, there are about 86000 speech clips for training and development, and 4372 clips for the evaluation test in this challenge. 
+They are composed of Chinese, English, and German, and consider background noise, speech enhancement system, reverberation, codecs, packet-loss and other possible online conference voice impairment scenarios.
